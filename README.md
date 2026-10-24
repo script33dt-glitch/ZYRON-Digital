@@ -1,87 +1,37 @@
-# ⚡ ZYRON Digital
 
-### Desenvolvimento • Criatividade • Tecnologia
+# ZYRON Digital — Scripts Store
 
-Bem-vindo ao repositório oficial da **ZYRON Digital**!
+Loja digital de scripts, bots e ferramentas.
 
-Somos um projeto independente de desenvolvimento digital, focado na criação de soluções modernas, acessíveis e personalizadas para empresas, criadores de conteúdo e comunidades gamers.
-
-Nosso objetivo é transformar ideias em projetos funcionais, combinando tecnologia, criatividade e uma identidade visual profissional.
-
----
-
-## 🚀 Sobre a ZYRON Digital
-
-A **ZYRON Digital** oferece serviços de desenvolvimento e personalização digital, atendendo desde pequenos negócios até comunidades de jogos.
-
-Trabalhamos com soluções adaptadas às necessidades de cada cliente, priorizando organização, desempenho e facilidade de utilização.
-
-## 💻 Nossos serviços
-
-### 🌐 Desenvolvimento de Sites
-- Landing pages profissionais
-- Sites para lojas virtuais
-- Catálogos digitais
-- Portfólios personalizados
-- Sites para comunidades gamers
-- Interfaces responsivas
-
-### 🤖 Discord & Automação
-- Configuração de servidores Discord
-- Organização de canais e cargos
-- Configuração de bots
-- Sistemas de tickets
-- Automações personalizadas
-- Melhorias na experiência dos membros
-
-### 🎮 Roblox Studio
-- Desenvolvimento de scripts em Luau
-- Sistemas de moedas
-- Sistemas de lojas
-- Checkpoints e progressão
-- Interfaces personalizadas
-- Correção de scripts
-
-## 🛠️ Tecnologias
-
-As principais tecnologias utilizadas em nossos projetos incluem:
+## Tecnologias
 
 - HTML5
 - CSS3
 - JavaScript
-- Python
-- Luau (Roblox Studio)
-- Git & GitHub
 
-## 🎨 Identidade visual
+## Funcionalidades
 
-A ZYRON Digital utiliza uma identidade moderna e tecnológica.
+- Catálogo responsivo
+- Pesquisa de produtos
+- Filtros por categoria
+- Carrinho de compras
+- Total em reais
 
-**Paleta de cores:**
-- Preto profundo: `#10101E`
-- Roxo tecnológico: `#A9A0FF`
-- Azul-ciano: `#78D9FF`
-- Branco: `#F2F5FC`
+## Status
 
-Nossa identidade busca transmitir inovação, confiança, criatividade e profissionalismo.
+Versão 1 — Demonstração.
 
-## 📁 Estrutura do projeto
+Pagamento Pix e entrega automática ainda não disponíveis.
 
-```text
-zyron-digital/
-├── index.html
-└── README.md
-```
+## Próximas etapas
 
-O arquivo `index.html` contém a interface principal da loja, incluindo HTML, CSS e JavaScript.
+1. Cadastrar os scripts reais.
+2. Criar backend para pedidos.
+3. Integrar um provedor Pix.
+4. Validar pagamentos via webhook.
+5. Implementar downloads privados e temporários.
 
-## ⚙️ Como executar
+## Segurança
 
-1. Baixe ou clone este repositório.
-2. Acesse a pasta do projeto.
-3. Abra o arquivo `index.html` em um navegador.
-4. Explore a interface e os serviços disponíveis.
-
-Não é necessário instalar dependências para executar a versão estática.
-
-## 🛒
+Nunca publicar tokens, chaves de API, credenciais
+bancárias ou scripts privados no repositório público.
